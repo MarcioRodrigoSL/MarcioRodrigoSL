@@ -19,9 +19,10 @@ Sou um **Desenvolvedor Júnior recém-formado em Análise e Desenvolvimento de S
 ### 📫 Como me encontrar
 
 <p>
-<a href="mailto:seu-email-marciolimadaniel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:marciolimadaniel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/marcio-lima-b1105627b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
 
 
 
